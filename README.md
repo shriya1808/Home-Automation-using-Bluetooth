@@ -3,3 +3,6 @@ An automation system that connects with the smartphone through Bluetooth. The sm
 
 Requirements:
  Arduino Software to run
+
+Tinkercad link:
+  https://www.tinkercad.com/things/aRzclPOZgNq-home-automation-mine/editel?sharecode=Du48eNf2DfWWEJvGsA11vIVzSsHysQnkPjWQcp8mzoE
